@@ -19,3 +19,12 @@
     justify-content: center;
     margin-top: 20px;
 }
+button{
+    width: 100px;
+    padding: 20px;
+    background-color: seashell;
+    border: 1px solid grey;
+}
+button:hover{
+    background-color: wheat;
+}
